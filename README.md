@@ -28,15 +28,12 @@ looking for professionalevolution.
      <!-- Card -->
       <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-025&layout=compact&theme=react'>
     </td>
-  </row>
-</table> 
-<table align="center">
-  <row>
     <td>
       <img height='200' src='https://github-readme-stats.vercel.app/api?username=Gabriel-025&show_icons=true&theme=react'>
     </td>  
   </row>
 </table> 
+
     
 
 💻 📱 &nbsp; Programming: <br/>

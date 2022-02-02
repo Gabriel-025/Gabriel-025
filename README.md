@@ -13,8 +13,8 @@ const importantLinks = {
 ## Hi 👋,
 
 I'm Gabriel Machado, Web Developer 👨‍💻 .
-
-- ⚡ Skills: HTML,CSS,Javascript, React,
+⚡ Skills:
+-  HTML,CSS,Javascript, React,
 - Styled-Components, Nextjs, NodeJS,
 -  Strapi,Mysql,phpmyadmin,Database,postman API
 

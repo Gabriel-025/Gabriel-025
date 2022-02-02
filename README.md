@@ -8,7 +8,7 @@
    👋 Email: 'gabrielmachado210prata@gmail.com',
 
 
-## Hello guys 👋,
+## Hello guys 👋
 
 I'm Gabriel Machado, Web Developer 👨‍💻 .
 

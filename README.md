@@ -28,9 +28,9 @@ looking for professionalevolution.
      <!-- Card -->
       <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-025&layout=compact&theme=react'>
     </td>
-    <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=Gabriel-025&show_icons=true&theme=react'>
-    </td>  
+      <td>
+        <img height='200' src='https://github-readme-stats.vercel.app/api?username=Gabriel-025&show_icons=true&theme=react'>
+      </td>  
   </row>
 </table> 
 
@@ -38,7 +38,6 @@ looking for professionalevolution.
 
 💻 📱 &nbsp; Programming: <br/>
 
-![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;

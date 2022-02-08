@@ -5,7 +5,7 @@
 
 
    👨🏻‍💻 Portfolio: In construction,
-   👋 Email: 'gabrielmachado210prata@gmail.com',
+   👋 Email:'gabrielmachado210prata@gmail.com',
 
 
 ## Hello guys 👋
@@ -22,7 +22,7 @@ looking for professionalevolution.
 -  React,Styled-Components, Nextjs, NodeJS,
 -  Strapi,Mysql,phpmyadmin,Database,postman API
 
-<table align="center">
+ <table align="center">
   <row>
     <td>
      <!-- Card -->

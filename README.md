@@ -5,6 +5,7 @@
 
 
    👨🏻‍💻 Portfolio: https://me-gabriel-025.vercel.app/ ,
+   
    👋 Email:'gabrielmachado210prata@gmail.com',
 
 

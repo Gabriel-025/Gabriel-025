@@ -35,7 +35,7 @@ looking for professionalevolution.
   </row>
 </table> 
 
-    
+   <img height='50' src='https://komarev.com/ghpvc/?username=Gabriel-025&color=red'>
 
 💻 📱 &nbsp; Programming: <br/>
 

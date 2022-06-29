@@ -19,9 +19,9 @@ looking for professionalevolution.
 
 
 -⚡ Skills:
--  HTML,CSS,Javascript.
--  React,Styled-Components, Nextjs, NodeJS
--  Mysql,phpmyadmin,MongoDB
+-  HTML,CSS,Javascript;
+-  React,Styled-Components, Nextjs, NodeJS;
+-  Mysql,phpmyadmin.
 
  <table align="center">
   <row>

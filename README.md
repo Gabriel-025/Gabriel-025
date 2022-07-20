@@ -36,6 +36,8 @@ looking for professionalevolution.
 </table> 
 
    <img  src='https://komarev.com/ghpvc/?username=Gabriel-025&color=red'>
+   
+Learning React-Native, android and ios.
 
 💻 📱 &nbsp; Programming: <br/>
 

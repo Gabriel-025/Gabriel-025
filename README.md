@@ -23,6 +23,7 @@ looking for professionalevolution.
 -  React,Styled-Components, Nextjs, NodeJS;
 -  Mysql,phpmyadmin.
 -  Learning React-Native, android and ios.
+-  
  <table align="center">
   <row>
     <td>
@@ -38,8 +39,6 @@ looking for professionalevolution.
 [![Gabriel-025 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel-025)](https://github.com/anuraghazra/github-readme-stats)
 
 
-   <img  src='https://komarev.com/ghpvc/?username=Gabriel-025&color=red'>
-   
 
 
 💻 📱 &nbsp; Programming: <br/>

@@ -40,6 +40,7 @@ looking for professionalevolution.
 
 
 💻 📱 &nbsp; Programming: <br/>
+[![Gabriel-025 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel-025)](https://github.com/anuraghazra/github-readme-stats)
 
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;

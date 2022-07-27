@@ -13,7 +13,7 @@
 
 I'm Gabriel Machado, Web Developer 👨‍💻 .
 
-I've been dedicating myself to programming for 1 year,
+I've been dedicating myself to programming a for over 1 year and a half,
 the world where I found myself,and I come every day 
 looking for professionalevolution.
 
@@ -22,7 +22,7 @@ looking for professionalevolution.
 -  HTML,CSS,Javascript;
 -  React,Styled-Components, Nextjs, NodeJS;
 -  Mysql,phpmyadmin.
-
+-  Learning React-Native, android and ios.
  <table align="center">
   <row>
     <td>
@@ -37,7 +37,7 @@ looking for professionalevolution.
 
    <img  src='https://komarev.com/ghpvc/?username=Gabriel-025&color=red'>
    
-Learning React-Native, android and ios.
+
 
 💻 📱 &nbsp; Programming: <br/>
 

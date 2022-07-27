@@ -30,7 +30,7 @@ looking for professionalevolution.
       <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-025&layout=compact&theme=react'>
     </td>
     <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=Gabriel-025&show_icons=true&count_private=true&include_all_commits=true&theme=react'>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=Gabriel-025&show_icons=true&count_private=true&theme=react'>
     </td>  
   </row>
 </table> 

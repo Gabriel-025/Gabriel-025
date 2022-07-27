@@ -35,6 +35,9 @@ looking for professionalevolution.
   </row>
 </table> 
 
+[![Gabriel-025 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel-025)](https://github.com/anuraghazra/github-readme-stats)
+
+
    <img  src='https://komarev.com/ghpvc/?username=Gabriel-025&color=red'>
    
 

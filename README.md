@@ -12,6 +12,7 @@
 ## Hello guys 👋
 
 I'm Gabriel Machado, Web Developer 👨‍💻 .
+And in the near future android and ios, with react-native.
 
 I've been dedicating myself to programming a for over 1 year and a half,
 the world where I found myself,and I come every day 

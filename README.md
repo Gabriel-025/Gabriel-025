@@ -23,7 +23,7 @@ looking for professionalevolution.
 -  React,Styled-Components, Nextjs, NodeJS;
 -  Mysql,phpmyadmin (basic).
 -  Learning React-Native, android and ios.
--  
+
  <table align="center">
   <row>
     <td>

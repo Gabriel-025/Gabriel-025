@@ -11,18 +11,22 @@
 
 ## Hello guys 👋
 
-I'm Gabriel Machado, Web Developer 👨‍💻, and in the near future android and ios, with react-native.
 
-I've been dedicating myself to programming a for over 1 year and a half,
-the world where I found myself,and I come every day 
-looking for professionalevolution.
+I'm Gabriel Machado, Web Developer 👨‍💻, in constant evolution, I always seek to improve my knowledge.
+
+I've been dedicated to programming for over 2 years, the world where I found myself, I come every day
+in search of professional evolution.
+
+Freelance open!
+Let's work.
+
 
 
 -⚡ Skills:
 -  HTML,CSS,Javascript;
 -  React,Styled-Components, Nextjs, NodeJS;
 -  Mysql,phpmyadmin (basic).
--  Learning React-Native, android and ios.
+-  Learning DevOps in moment.
 
  <table align="center">
   <row>

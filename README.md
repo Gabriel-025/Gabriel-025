@@ -54,6 +54,5 @@ Let's work.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Nextjs-ffffff?style=flat&logoColor=fff&logo=nextjs)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;     
 

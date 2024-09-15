@@ -14,7 +14,7 @@
 
 I'm Gabriel Machado, Web Developer 👨‍💻, in constant evolution, I always seek to improve my knowledge.
 
-I've been dedicated to programming for over 2 years, the world where I found myself, I come every day
+I've been dedicated to programming for over 4 years, the world where I found myself, I come every day
 in search of professional evolution.
 
 Freelance open!
@@ -24,9 +24,8 @@ Let's work.
 
 -⚡ Skills:
 -  HTML,CSS,Javascript;
--  React,Styled-Components, Nextjs, NodeJS;
+-  React,Styled-Components, Nextjs;
 -  Mysql,phpmyadmin (basic).
--  Learning DevOps in moment.
 
  <table align="center">
   <row>

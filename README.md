@@ -14,32 +14,11 @@
 
 I'm Gabriel Machado, Web Developer 👨‍💻, in constant evolution, I always seek to improve my knowledge.
 
-I've been dedicated to programming for over 4 years, the world where I found myself, I come every day
+I've been dedicated to programming for over 6 years, the world where I found myself, I come every day
 in search of professional evolution.
 
 Freelance open!
 Let's work.
-
-
-
--⚡ Skills:
--  HTML,CSS,Javascript;
--  React,Styled-Components, Nextjs;
--  Mysql,phpmyadmin (basic).
-
- <table align="center">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-025&layout=compact&theme=react'>
-    </td>
-    <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=Gabriel-025&show_icons=true&count_private=true&theme=react&rank_icon&hide_rank=true'>
-    </td>  
-  </row>
-</table> 
-
-
 
 
 💻 📱 &nbsp; Programming: <br/>
